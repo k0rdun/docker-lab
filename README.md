@@ -10,3 +10,7 @@ docker compose up --build -d
 Таблицы создаются автоматически при запуске бэкенда.
 
 API: [http://localhost:8000/docs](http://localhost:8000/docs).
+
+## Kubernetes
+
+Манифесты находятся в [k8s/](k8s/).
